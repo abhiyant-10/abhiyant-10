@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/abhi_gwalani" target="blank"><img src="https://img.shields.io/twitter/follow/abhi_gwalani?logo=twitter&style=for-the-badge" alt="abhi_gwalani" /></a> </p>
 
-- 📄 Know about my experiences [https://flowcv.com/resume/tqr5g9k0r3](https://flowcv.com/resume/tqr5g9k0r3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
